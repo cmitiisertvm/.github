@@ -1,6 +1,6 @@
 # Welcome to CMIT!
 Hello and welcome to the GitHub page of CMIT. We are the mathematics club of IISER Thiruvananthapuram.
-To know more about us, visit our [website](https://cmit.iisertvm.ac.in).
+To know more, visit our [website](https://cmit.iisertvm.ac.in).
 
 ## Hi there 👋
 
